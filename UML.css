@@ -61,3 +61,18 @@ a {
 a:hover {
     text-decoration: underline;
 }
+#referencias {
+    margin-top: 40px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#referencias h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#referencias ul {
+    list-style: none;
